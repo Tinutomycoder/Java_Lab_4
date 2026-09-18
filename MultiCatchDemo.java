@@ -1,10 +1,4 @@
-/*
- * Name: N V Edwin
- * Register No: 25PMC143
- * College: Marian College Kuttikanam (Autonomous)
- * Department: MCA
- */
-// Level 1 – Built-in Exceptions: 4. Multiple Exception Handling
+
 import java.util.Scanner;
 
 public class MultiCatchDemo {
