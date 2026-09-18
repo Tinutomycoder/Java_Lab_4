@@ -1,10 +1,5 @@
-/*
- * Name: N V Edwin
- * Register No: 25PMC143
- * College: Marian College Kuttikanam (Autonomous)
- * Department: MCA
- */
-// Level 6 – Comprehensive Exercises: 27. Login System
+
+
 import java.util.Scanner;
 
 class InvalidLoginException extends Exception {
