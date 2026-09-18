@@ -1,10 +1,4 @@
-/*
- * Name: N V Edwin
- * Register No: 25PMC143
- * College: Marian College Kuttikanam (Autonomous)
- * Department: MCA
- */
-// Level 3 – Throw and Throws: 15. Bank Withdrawal
+
 import java.util.Scanner;
 
 public class BankWithdrawDemo {
