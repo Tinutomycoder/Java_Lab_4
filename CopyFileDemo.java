@@ -1,10 +1,4 @@
-/*
- * Name: N V Edwin
- * Register No: 25PMC143
- * College: Marian College Kuttikanam (Autonomous)
- * Department: MCA
- */
-// Level 2 – File Handling Exceptions: 8. Copy a File
+
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
